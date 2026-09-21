@@ -1,0 +1,10 @@
+{
+  "name": "Mes Enveloppes Budget",
+  "short_name": "Enveloppes",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#f2f0e9",
+  "lang": "fr"
+}
