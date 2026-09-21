@@ -1,10 +1,23 @@
 {
-  "name": "Mes Enveloppes Budget",
-  "short_name": "Enveloppes",
+  "name": "Mes Enveloppes",
+  "short_name": "Mes Enveloppes",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f3ee",
-  "theme_color": "#f2f0e9",
-  "lang": "fr"
+  "background_color": "#f7f5ef",
+  "theme_color": "#304a32",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
